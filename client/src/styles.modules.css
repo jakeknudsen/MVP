@@ -1,0 +1,67 @@
+/* body style */
+
+body {
+  background-color: antiquewhite;
+}
+
+/* home page style */
+
+.home {
+  display: block;
+  text-align: center;
+}
+
+.home-title {
+  border: solid black;
+}
+
+.journals {
+  border: solid black;
+}
+
+/* entry page */
+
+header {
+  background-color: rgb(28, 74, 133);
+  color: white;
+  padding: 20px;
+  text-align: center;
+  font-family: monospace;
+}
+
+.create-new-note {
+  display: flex;
+  border: solid;
+  max-inline-size: fit-content;
+}
+
+.new-note {
+  margin: 5px;
+}
+
+.plus {
+  margin: 4px;
+}
+
+.notes {
+  border: solid;
+}
+
+.home-button {
+  border: solid;
+  text-align: center;
+  background-color: darkgray;
+  font-size: larger;
+  font-weight: 800;
+  font-family: monospace;
+}
+
+/* #title {
+  margin-left: 5px;
+  margin-bottom: 5px;
+  height: 25px;
+}
+
+#note {
+  background-color: aqua;
+} */
